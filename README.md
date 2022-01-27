@@ -1,4 +1,4 @@
-# Remove-Pre-install-office-Suite-365-en-us-es-es-fr-fr-
+# Remove-Pre-install-office-Suite-365-en-es-fr
 Script To Silently Uninstall Built-In Office 365
 
 Many Windows 10 computers come with three versions of ClickToRun Office 365 pre-installed (EN, ES, FR) that have to be uninstalled before you can install any other version of Office.
