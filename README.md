@@ -7,3 +7,4 @@ It's a real hassle to do this manually through the Add/Remove Programs GUI when 
 
 This script will get the unintall path from the Windows Registery and execute the command with a DisplayLevel=False flag to make the uninstallation silent. 
 
+Simply click on the code button above and select download zip. Then Run the batch file. 
